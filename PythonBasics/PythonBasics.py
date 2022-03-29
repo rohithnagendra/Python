@@ -1,1 +1,50 @@
 print("Hello World")
+
+input("Wath is your name")
+
+#this is a comments print("this is code")
+
+MY_NAME= "ROHITH"
+MY_AGE= 10
+
+MY_AGE = 10
+MY_AGE += 4
+#MY_AGE IS NOW 14
+
+MY_NUMBER = 345
+
+my_float = 3.14159
+
+MY_STRING = "HELLO"
+
+"HELLO" + "ROHITH"
+#BECOMES #HELLOROHITH"
+
+SPEECH = "SHE SAID: \" HI \" "
+PRINT = (SPEECH)
+#PRINTS: SHE SAID: HI 
+
+DAYS = 365
+PRINT(F"THERE ARE {DAYS} IN A YEAR")
+
+N = 345
+NEW_N = float(N)
+PRINT(NEW_N)
+#RESULT 345 . 0
+
+N = 3. 14159
+TYPE(N)
+#RESULT FLOAT
+
+3 + 2 #ADD
+4 -1 # SUBTRACT
+2 * 3 #MULTIPLY
+5 / 2 # DIVIDE
+5 * * 2 # EXPONENT
+
+MY_NUMBER = 4
+MY_NUMBER += 2
+#RESULT IS 6
+
+5 % 2
+#RESULT IS 1
