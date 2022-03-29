@@ -1,6 +1,6 @@
 print("Hello World")
 
-input("Wath is your name")
+#input("Wath is your name")
 
 #this is a comments print("this is code")
 
@@ -24,23 +24,23 @@ SPEECH = "SHE SAID: \" HI \" "
 PRINT = (SPEECH)
 #PRINTS: SHE SAID: HI 
 
-DAYS = 365
-PRINT(F"THERE ARE {DAYS} IN A YEAR")
+days = 365
+print(f"THERE ARE {days} days in a year")
 
 N = 345
 NEW_N = float(N)
-PRINT(NEW_N)
+print(NEW_N)
 #RESULT 345 . 0
 
-N = 3. 14159
-TYPE(N)
+N = 3.14159
+print(type(N))
 #RESULT FLOAT
 
 3 + 2 #ADD
 4 -1 # SUBTRACT
 2 * 3 #MULTIPLY
 5 / 2 # DIVIDE
-5 * * 2 # EXPONENT
+5 ** 2 # EXPONENT
 
 MY_NUMBER = 4
 MY_NUMBER += 2
