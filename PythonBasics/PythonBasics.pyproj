@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>d4e246b1-2daa-4921-b912-20b9f274a09c</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>multiplesprogram.py</StartupFile>
+    <StartupFile>EvenorOddProgram.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,6 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="EvenorOddProgram.py" />
     <Compile Include="multiplesprogram.py" />
     <Compile Include="pythonLoop.py" />
     <Compile Include="PythonBasics.py" />
