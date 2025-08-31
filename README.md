@@ -15,7 +15,8 @@ These scripts cover fundamental programming concepts such as loops, conditions, 
 - `multiplesprogram.py` – Find multiples of a number using a while loop  
 - `primenumber.py` – Program to check if a number is prime  
 - `pythonLoop.py` – Examples of Python loops (for/while)  
-
+- `python - reading images.
+  
 Other files:  
 - `PythonBasics.pyproj` / `PythonBasics.sln` – Project files (for IDE/project setup)  
 
