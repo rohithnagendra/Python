@@ -1,7 +1,7 @@
 # 🐍 Python Basics  
 
 Welcome to **Python Basics** – a collection of beginner-friendly Python programs written by **Rohith Nagendra**.  
-These scripts cover fundamental programming concepts such as loops, conditions, prime numbers, HCF/LCM, Fibonacci series, and more.  
+These scripts cover fundamental programming concepts such as loops, conditions, prime numbers, HCF/LCM, Fibonacci series, and reading images.  
 
 ---
 
